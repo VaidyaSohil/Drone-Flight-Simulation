@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/vaidy/source/repos/Lab10_Mono/Lab10_Mono/Content/SkyBox_Front.jpg</SourceFile>
+  <SourceTime>2011-02-10T15:53:36-07:00</SourceTime>
+  <DestFile>C:/Users/vaidy/source/repos/Lab10_Mono/Lab10_Mono/Content/bin/Windows/SkyBox_Front_0.xnb</DestFile>
+  <DestTime>2019-05-06T12:16:47.1573163-06:00</DestTime>
+  <Importer>TextureImporter</Importer>
+  <ImporterTime>2018-09-23T15:55:52-06:00</ImporterTime>
+  <Processor>TextureProcessor</Processor>
+  <ProcessorTime>2018-09-23T15:55:52-06:00</ProcessorTime>
+  <Parameters>
+    <Key>ColorKeyColor</Key>
+    <Value>0,0,0,0</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ColorKeyEnabled</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>GenerateMipmaps</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>ResizeToPowerOfTwo</Key>
+    <Value>False</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
